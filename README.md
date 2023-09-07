@@ -1,6 +1,6 @@
 # app-icon
 
-[![Go](https://github.com/blacktop/app-icon/actions/workflows/go.yml/badge.svg)](https://github.com/blacktop/app-icon/actions/workflows/go.yml) [![Downloads](https://img.shields.io/github/downloads/blacktop/app-icon/total.svg)](https://github.com/blacktop/app-icon/releases)  [![Github All Releases](https://img.shields.io/github/release/blacktop/app-icon.svg)](https://github.com/blacktop/app-icon/releases) [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
+[![Go](https://github.com/blacktop/app-icon/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/blacktop/app-icon/actions/workflows/go.yml) [![Downloads](https://img.shields.io/github/downloads/blacktop/app-icon/total.svg)](https://github.com/blacktop/app-icon/releases)  [![Github All Releases](https://img.shields.io/github/release/blacktop/app-icon.svg)](https://github.com/blacktop/app-icon/releases) [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
 > Generate macOS App Icons
 
